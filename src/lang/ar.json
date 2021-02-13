@@ -1,0 +1,8 @@
+{
+	"app.header": "قم بتحرير الملفات وحفظها لإعادة<code>{fileName}</code> التحميل",
+	"app.content": "تعلم React",
+	"app.channel.plug": "يقدم لك البرنامج التعليمي {blogName}",
+	"app.plural": "{amount, plural, =0 {no languages} one {# one language} few {# several languages} many {# lots of languages} other {# wrong fromat}}",
+	"app.try.title": "جرب React",
+	"app.try.description": "صُمِّمت React من البداية مع أخذ الاعتماد التدريجي عليها بالحسبان، لذا تستطيع الاعتماد قليلا على React أو بقدر ما تحتاج إليها. سواءً أردت تجريب React بشكل مبسَّط، أو إضافة بعض التفاعل إلى صفحة HTML بسيطة، أو البدء بإنشاء تطبيق React معقَّد، فستساعدك الروابط في هذا القسم للوصول إلى ذلك."
+}
